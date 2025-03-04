@@ -39,7 +39,7 @@ This project is designed to showcase personal projects, skills, and achievements
 ![Portfolio Screenshot](screenshot.png)
 
 ## Live Demo
-[View Live Demo](https://github.com/Devesh7668/Personal-Portfolio)
+[View Live Demo](file:///E:/Portfolio%20website/index.html#education)
 
 ## Contributing
 Feel free to submit issues and pull requests to improve the project.
