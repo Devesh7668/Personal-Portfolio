@@ -39,7 +39,7 @@ This project is designed to showcase personal projects, skills, and achievements
 ![Portfolio Screenshot](screenshot.png)
 
 ## Live Demo
-[View Live Demo](file:///E:/Portfolio%20website/index.html#education)
+[View Live Demo](http://127.0.0.1:5500/index.html)
 
 ## Contributing
 Feel free to submit issues and pull requests to improve the project.
